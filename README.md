@@ -52,7 +52,7 @@ https://screenrec.com/share/AD0Q6haO3Y
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/ZeroTrust-IAM.git](https://github.com/yourusername/ZeroTrust-IAM.git)
+   git clone [https://github.com/Ayush1234-coder-sketch/ZeroTrust-IAM.git](https://github.com/Ayush1234-coder-sketch/ZeroTrust-IAM.git)
    cd ZeroTrust-IAM
 
 ## Install dependencies:
