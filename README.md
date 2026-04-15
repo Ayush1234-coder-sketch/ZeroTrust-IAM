@@ -69,5 +69,38 @@ python main.py
 
 
 ## 👨‍💻 About the Author
+Ayush Singh Cybersecurity Researcher & Future B.Tech Computer Science Student
 
-Ayush Singh Cybersecurity Enthusiast & Computer Science Student Specializing in Web Application Security, VAPT, and Zero-Trust Architectures.
+I am a security-focused developer currently completing my Diploma in Computer Science (Class of 2026) and preparing to transition into a B.Tech program via Lateral Entry in August 2026. My professional focus lies at the intersection of Web Application Security, VAPT (Vulnerability Assessment and Penetration Testing), and Identity & Access Management (IAM).
+
+🎯 Professional Focus & Philosophy
+
+I believe that in the modern threat landscape, perimeter-based security is obsolete. My work is centered on the Zero-Trust architecture, where identity is the new perimeter. This project, ZeroTrust-IAM, is a testament to my commitment to building systems that "Never Trust, Always Verify."
+
+🛠️ Technical Expertise
+
+    Offensive Security: Bug Bounty Hunting, Web App Pentesting (XSS, SQLi, IDOR), and automated vulnerability scanning.
+
+    Security Engineering: Developing secure-by-design backends, implementing cryptographically secure session management, and Multi-Factor Authentication (MFA).
+
+    Programming: Proficient in Python for security automation and C/C++ for core computer science fundamentals.
+
+    Tools: Burp Suite Professional, Metasploit, Nmap, and PyJWT.
+
+📈 Current Projects & Training
+
+    VAPT Training: Currently undergoing a rigorous 6-month specialized VAPT program at Ansh Infotech (Started Jan 2026).
+
+    AI Security: Developing an AI-driven vulnerability scanner to automate the detection of injection-based flaws in modern web architectures.
+
+    Identity Research: Exploring Zero-Trust Identity and Access Management to eliminate the risk of lateral movement in enterprise networks.
+
+🤝 Connect with Me
+
+I am actively seeking Remote-First Cybersecurity Internships where I can contribute to the defense of critical infrastructure while continuing to sharpen my offensive security skills.
+
+    GitHub: Ayush1234-coder-sketch
+
+    LinkedIn: www.linkedin.com/in/ayush-singh-67050b333
+
+    Location: Jamshedpur, Jharkhand, India (Available for Remote Global Roles)
