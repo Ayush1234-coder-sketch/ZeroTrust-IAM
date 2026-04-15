@@ -44,6 +44,10 @@ The system follows a strict 5-stage verification pipeline for every request:
 
 ---
 
+## Video Demo Link:
+https://screenrec.com/share/AD0Q6haO3Y
+
+
 ## 📦 Installation & Usage
 
 1. **Clone the repository:**
