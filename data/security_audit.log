@@ -1,0 +1,10 @@
+2026-04-15 12:52:37,171 | INFO | User: ayush_singh, Action: view_dashboard, Status: GRANTED, IP: 192.168.1.100
+2026-04-15 13:06:57,023 | INFO | User: ayush_singh, Action: view_dashboard, Status: GRANTED, IP: 192.168.1.100
+2026-04-15 13:08:58,599 | INFO | User: ayush_singh, Action: view_dashboard, Status: GRANTED, IP: 192.168.1.100
+2026-04-15 13:11:12,982 | INFO | User: ayush_singh, Action: view_dashboard, Status: GRANTED, IP: 192.168.1.100
+2026-04-15 13:17:11,822 | INFO | User: ayush_singh, Action: view_dashboard, Status: GRANTED, IP: 192.168.1.100
+2026-04-15 13:26:33,837 | WARNING | User: Ayush, Action: delete_database, Status: DENIED, IP: 192.168.1.100
+2026-04-15 13:27:25,406 | INFO | User: Ayush, Action: delete_database, Status: GRANTED, IP: 192.168.1.100
+2026-04-15 15:04:26,437 | INFO | User: Ayush_Singh, Action: view_dashboard, Status: GRANTED, IP: 192.168.1.100
+2026-04-15 15:06:08,773 | WARNING | User: Ayush_Singh, Action: delete_database, Status: DENIED, IP: 192.168.1.100
+2026-04-15 15:07:38,252 | INFO | User: Ayush_Singh, Action: delete_database, Status: GRANTED, IP: 192.168.1.100

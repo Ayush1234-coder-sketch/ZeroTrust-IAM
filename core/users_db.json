@@ -1,0 +1,3 @@
+{
+    "secret": "pyotp.random_base32()"
+}
