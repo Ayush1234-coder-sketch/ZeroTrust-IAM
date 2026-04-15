@@ -1,0 +1,12 @@
+# Ignore the local identity store (Sensitive Data)
+data/users_db.json
+
+# Ignore security audit logs
+data/security_audit.log
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+*.env
